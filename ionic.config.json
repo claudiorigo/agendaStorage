@@ -1,0 +1,7 @@
+{
+  "name": "ejemploStorage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
